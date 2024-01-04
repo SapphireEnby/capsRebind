@@ -1,0 +1,5 @@
+Gotta hook the .sh into qtile's configt
+might need a little path editing to make sure everything goes smoothly
+double make sure its hooked to only execute one perlogin
+
+Untested

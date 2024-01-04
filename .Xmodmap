@@ -1,0 +1,5 @@
+!Qtile: Bind CAPS to MOD4
+!..unbind Lock keys (capslock)
+clear Lock 
+!..Then set capslock key into Mod4 catagory (or whatever qtile uses)
+add Mod4 = Caps_Lock
